@@ -12,7 +12,7 @@
 <p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
 	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum <strong>cornering velocity</strong> of the vehicle is <strong>3.2 m/s</strong>.</span><br>
 
-<div style="text-align: center;">
+<span style="display: inline-block; text-indent: 2em;"><div style="text-align: center;">
     <img src="racing.gif" alt="racing" style="width: 100%; height: auto;">
 </div>
 
