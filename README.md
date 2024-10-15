@@ -8,10 +8,9 @@
 
 <h1 id="Recent_Demo-section" style="border-bottom: 2px solid #d3d3d3;">🏎️ Recent demo</h1>
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; align-items: center;">
     <img src="./media/racing.gif" alt="racing" style="width: 40%; height: auto;">
     <img src="./media/racing_3rdview.gif" alt="racing" style="width: 50%; height: auto;">
-	<br>
 </div>
 
 <h1 id="News-section" style="border-bottom: 2px solid #d3d3d3;">🔥 News</h1>
@@ -58,3 +57,4 @@
 	<li>2021.12 - 2022.09, <a href="https://github.com/hikvision-research">Hikvision Research Institute (HRI)</a>, Hangzhou, mentored by Researcher Weiwen Hu and Dr. Hao Zhu.<br>
     </li>
 </ul>
+

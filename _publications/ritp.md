@@ -6,7 +6,7 @@ permalink: /publication/ritp
 excerpt: '
 <strong style="font-size: 20px;">Graphical abstract</strong>
 
-<img src="/media/ritp/ga1.png" alt="ritp" style="width: 100%; height: auto;">
+<img src="../media/ritp/ga1.png" alt="ritp" style="width: 100%; height: auto;">
 
 <strong style="font-size: 20px;">Highlights</strong>
 
