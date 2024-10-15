@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "WELCOME :)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Zhouheng Li"
 description              : &description "personal description"
-url                      : https://zhouhengli.github.io/zhouhengli/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://zhouhengli.github.io/zhouhengli # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "zhouhengli/zhouhengli.github.io"
 

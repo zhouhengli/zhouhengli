@@ -5,9 +5,10 @@
     <span style="display: inline-block; text-indent: 2em;">I am also actively involved in applying these techniques to the <a href="https://f1tenth.org/">F1TENTH competition</a>. <strong>The overarching goal of my research is to explore behavioral decision-making and trajectory planning methods for both single and multiple vehicles at the limits of their handling capabilities in autonomous racing.</strong> My ultimate goal is to apply these efficient planning methods to everyday autonomous driving scenarios, ultimately improving transportation efficiency. <a href="#publications-section">📝 Publications</a> <br>     
 	<span style="display: inline-block; text-indent: 2em;">Feel free to drop me emails (📨 zh.li@zju.edu.cn) if you are interested in the topics mentioned above, I would be happy to discuss further collaborations.</span>
     <span style="display: inline-block; text-indent: 2em;">✨ Enjoyments of life: 🎲 Board Games (Splendor, Seven Wonders: Duel, etc), 👣 hiking, 🏓 ping-pong, 🗺️ traveling.</span>
-
-
 <h1 id="Recent_Demo-section" style="border-bottom: 2px solid #d3d3d3;">🏎️ Recent demo</h1>
+
+<p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
+	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum <strong>cornering velocity</strong> of the vehicle is <strong>3.2 m/s</strong>.</span>
 
 <img src="./media/racing.gif" alt="racing" style="width: 90%; height: auto;">
 
@@ -56,3 +57,4 @@
 	<li>2021.12 - 2022.09, <a href="https://github.com/hikvision-research">Hikvision Research Institute (HRI)</a>, Hangzhou, mentored by Researcher Weiwen Hu and Dr. Hao Zhu.<br>
     </li>
 </ul>
+
