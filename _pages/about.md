@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /_pages
 title: "Zhouheng Li"
 author_profile: true
 redirect_from: 
@@ -21,7 +21,7 @@ redirect_from:
 <p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
 	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum cornering velocity of the vehicle is <strong>3.2 m/s</strong>.</span>
 <div style="display: grid; place-items: center;">
-    <img src="/media/racing.gif" alt="racing" style="width: 100%; height: auto;">
+    <img src="../media/racing.gif" alt="racing" style="width: 100%; height: auto;">
 </div>
 
 
