@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-{% include base_path %}
-
 <p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
     <span style="display: inline-block; text-indent: 2em;">I am currently pursuing a master’s degree at the Polytechnic Institute of Zhejiang University, Hangzhou, China, under the supervision of <a href="https://person.zju.edu.cn/en/leighxie">Prof. Lei Xie</a>. My research focuses on developing <strong>decision-making and planning</strong> methods for aggressive autonomous driving, particularly in racing and drifting, covering the following aspects:</span> <br>
     <span style="display: inline-block; text-indent: 2em;">⭐ <strong>Motion planning integrating planning and control</strong>: ensuring vehicle safety while planning aggressive autonomous racing trajectories.</span> <br>     <span style="display: inline-block; text-indent: 2em;">⭐ <strong>Learning-based approach to optimizing planner parameters</strong>: using posteriori autonomous racing data to optimize planner performance for exploring the limits of vehicle handling.</span>  <br>     
@@ -23,7 +21,7 @@ redirect_from:
 <p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
 	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum cornering velocity of the vehicle is <strong>3.2 m/s</strong>.</span>
 <div style="display: grid; place-items: center;">
-    <img src="/media/racing.gif" alt="racing" style="width: 100%; height: auto;">
+    <img src="../media/racing.gif" alt="racing" style="width: 100%; height: auto;">
 </div>
 
 
