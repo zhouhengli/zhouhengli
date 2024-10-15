@@ -9,8 +9,7 @@
 
 <p style="line-height: 1.5; text-align: justify; font-size: 15px;"> 
 	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum <strong>cornering velocity</strong> of the vehicle is <strong>3.2 m/s</strong>.</span>
-
-<img src="./media/racing.gif" alt="racing" style="width: 90%; height: auto;">
+<img src="./_pages/racing.gif" alt="racing" style="width: 90%; height: auto;">
 
 
 <h1 id="News-section" style="border-bottom: 2px solid #d3d3d3;">🔥 News</h1>
@@ -57,4 +56,3 @@
 	<li>2021.12 - 2022.09, <a href="https://github.com/hikvision-research">Hikvision Research Institute (HRI)</a>, Hangzhou, mentored by Researcher Weiwen Hu and Dr. Hao Zhu.<br>
     </li>
 </ul>
-
