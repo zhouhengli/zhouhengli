@@ -23,8 +23,9 @@
 <p style="line-height: 1.5; text-align: justify; font-size: 16px;"> 
 	<span style="display: inline-block; text-indent: 2em;">Implementation of the proposed motion planner on the F1TENTH platform. The maximum cornering velocity in the  <strong>  sharp U-turn</strong> is 11.5 km/h.</span><br>
 <div style="text-align: center;">
-    <img src="https://zhouhengli.github.io/media/racing.gif" alt="racing" style="width: 100%; height: auto;">
+    <img src="./racing.gif" alt="racing" style="width: 100%; height: auto;">
 </div>
+
 
 <div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #d3d3d3;">
   <h1 id="News-section">🔥 News</h1>
@@ -98,3 +99,4 @@
 	  <li>2021.12 - 2022.09, <a href="https://github.com/hikvision-research" style="text-decoration: none;">Hikvision Research Institute (HRI)</a>, Hangzhou, mentored by Researcher Weiwen Hu and Dr. Hao Zhu.<br>
     </li>
   </ul>
+
