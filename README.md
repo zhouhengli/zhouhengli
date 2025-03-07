@@ -40,12 +40,5 @@
   </ul>
 
 
-<div style="display: flex; justify-content: space-between; align-items: center; border-bottom: 2px solid #d3d3d3;">
-  <h1 id="Internships-section">💻 Internship</h1>
-</div>
-<p style="line-height: 1; text-align: justify; font-size: 16px;">
-  <ul style="font-size: 16px;">
-	  <li>2021.12 - 2022.09, <a href="https://github.com/hikvision-research" style="text-decoration: none;">Hikvision Research Institute (HRI)</a>, Hangzhou, mentored by Researcher Weiwen Hu and Dr. Hao Zhu.<br>
-    </li>
-  </ul>
+https://github-readme-stats-three-psi-22.vercel.app
 
